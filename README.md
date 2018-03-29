@@ -1,1 +1,1 @@
-# gen-sentence-corpus
+# a simple sentence corpus generator 
